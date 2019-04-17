@@ -154,6 +154,7 @@ $(document).ready(function(){
 				<td>  ${obj.updated_at}</td>
 			</tr>
 		</table>
+		<button>Show Followers</button>
 	</div>
 	`
 }
