@@ -8,15 +8,14 @@
 body{
 	background-color: #6179D3;
 }
+
+
 input#name{
-	margin-top: 150px;
+	margin: 20px 30px;
+	position: absolute;
 	width: 250px;
-}
-input{
-	margin: 30px auto;
 	display: block;
 	border: 2px solid #082765;
-	width: 100px;
 	color: #293E68;
 	font-size: 20px;
 	height: 35px;
@@ -26,6 +25,10 @@ input{
 	padding-left: 5px;
 	color: #4B5A77;
 }
-input[type=submit]{
-	font-weight: 700;
+
+.table_box{
+	background-color: #7281B8;
+	border: 2px solid #0F2D49;
+	margin: 30px 450px;
+	padding: 20px;
 }
