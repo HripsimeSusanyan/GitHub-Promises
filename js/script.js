@@ -155,6 +155,7 @@ $(document).ready(function(){
 			</tr>
 		</table>
 		<button>Show Followers</button>
+		<span>Show followers</span>
 	</div>
 	`
 }
