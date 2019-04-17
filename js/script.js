@@ -155,7 +155,10 @@ $(document).ready(function(){
 			</tr>
 		</table>
 		<button>Show Followers</button>
-		<span>Show followers</span>
+		<pre>lcdv vkfio jfu jdai jcndsu</pre>
+		<br>
+		<b>Updates</b>
+		
 	</div>
 	`
 }
