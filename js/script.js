@@ -157,8 +157,19 @@ $(document).ready(function(){
 		<button>Show Followers</button>
 		<pre>lcdv vkfio jfu jdai jcndsu</pre>
 		<br>
-		<b>Updates</b>
-		
+		<span>Show followers</span>
+		<div class='columns'>
+			<p>
+				Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
+				Architecto perspiciatis cupiditate, rem rerum. Illo laborum quibusdam, 
+				ipsa id, veniam labore possimus quasi iusto ratione autem voluptatem aut, eius nobis omnis.
+			</p>
+			<p>
+				Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
+				Repellendus facilis quod assumenda, esse! Accusantium nulla corporis 
+				asperiores a maxime labore fuga, adipisci, iste aspernatur at magni voluptas libero. Obcaecati, inventore.
+			</p>
+		</div>
 	</div>
 	`
 }

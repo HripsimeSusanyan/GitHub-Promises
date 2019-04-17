@@ -20,6 +20,21 @@ input#name{
 	font-size: 20px;
 	height: 35px;
 }
+::-webkit-input-placeholder {
+	font-size: 18px;
+	padding-left: 5px;
+	color: #4B5A77;
+}
+:-ms-input-placeholder {
+	font-size: 18px;
+	padding-left: 5px;
+	color: #4B5A77;
+}
+::-ms-input-placeholder {
+	font-size: 18px;
+	padding-left: 5px;
+	color: #4B5A77;
+}
 ::placeholder {
 	font-size: 18px;
 	padding-left: 5px;
@@ -31,4 +46,12 @@ input#name{
 	border: 2px solid #0F2D49;
 	margin: 30px 450px;
 	padding: 20px;
+}
+
+.columns{
+	display: flex;
+}
+
+.columns p{
+	width: 50%;
 }
